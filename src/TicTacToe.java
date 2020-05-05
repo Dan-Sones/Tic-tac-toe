@@ -9,7 +9,7 @@ public class TicTacToe {
     //Main Method
     public static void main(String[] args) {
 
-        //Create a 2d array with all the symbols
+        //Create an array of chars that sets out the grid
         char[][] gameboard = {{' ', '|', ' ', '|', ' '},
                 {'-', '+', '-', '+', '-'},
                 {' ', '|', ' ', '|', ' '},
